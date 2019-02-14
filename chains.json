@@ -1,0 +1,114 @@
+{
+  "0x61cf96bc99e9a13052047f31114713a8a0ac97ead44c67d912243d174146de1f": {
+    "contracts": {
+      "0xd3d4f24c1f6678455a672f8699402c12be224fd9f4bd617746f891ca8dd66be7": {
+        "name": "BuildRegistry",
+        "address": "0x528Ad38A40f33d550a719E8EC25B9Fa291068b5E"
+      },
+      "0xdc9f8a40ef722c70229f4ee27b4bbf7e5205f7a76eb9235d4d29a05953703b4c": {
+        "name": "BuildRegistry",
+        "address": "0xEB27BA7BaC6A503AB43677f162cEF312a004e4D9"
+      },
+      "0x9dd674fe702fd5fabea9e644a9c9bdf3050896ca5ae9530c4d370685e0effc38": {
+        "name": "BuildRegistry",
+        "address": "0x6bBB4388B9Be62861f9b4cBcd4E7D6d8755DD9ca"
+      },
+      "0x296107828bed5c101778b31384857b839e55a9517b5314972dfb75665c3018a6": {
+        "name": "BuildRegistry",
+        "address": "0xB3fFA0aba443F7c76b5cb97B2f124DBd199Eba4C"
+      },
+      "0x169639b0f4c4949bb781758ff47eadd278ce4f7ac0458645dfbc59cc22c589e9": {
+        "name": "BuildRegistry",
+        "address": "0x87299602aBf6191a4901BE1289751e34a117b604"
+      },
+      "0xc10a141dc02dc8189026cd319eed705fb01f2a97ff7d49aa7ceb5a5bb3dcbb08": {
+        "name": "BuildRegistry",
+        "address": "0x8A55d3d03E676eFb22CCe8CB920380deB71313F6"
+      },
+      "0xdeebd259bca49ca2e42b41e9f84d23ee5146946294117a2e2710e0604e5cf4d3": {
+        "name": "BuildRegistry",
+        "address": "0xBb3830626D3FcD178B57116C2354c15F249c29fF"
+      },
+      "0xda8b5fe4aca1df8a0e4190e9990d3415517e9f0825a554e360a61e40fb05ddc4": {
+        "name": "BuildRegistry",
+        "address": "0x322BA4B020af275DF19f387c4CCd0A14FB42E02D"
+      },
+      "0x688a5dcc615f93ebcb951bffbf64f24287056fdbc6e096fb822550a592b600f8": {
+        "name": "BuildRegistry",
+        "address": "0x18Df2F3E85Ef9Aa882F65A0dEc568A646293A4eb"
+      },
+      "0xd241f4938824f82ad9370843ba8789f97f17cf81cf903d9f283cdc6c13aa881e": {
+        "name": "BuildRegistry",
+        "address": "0xDf02CEfeF0eB8a9FaE26c4685c740F9E4384D595"
+      },
+      "0x022fe6c5a4930eca46b41c627a05a3196c2de105ca4fb5804d9b25149836e763": {
+        "name": "BuildRegistry",
+        "address": "0xf2BD3D42E1AE80e7fdDd3b8AC40aB456f1c345a1"
+      },
+      "0x81a8078d4e8d542500ff2158ed1561ad652239cd40e7942b6f302a93e3cf36da": {
+        "name": "BuildRegistry",
+        "address": "0x3c60bbe72c486119aD7653D47BD3ADD234e03072"
+      },
+      "0xf85fe9a10f9d7c9811166f0fb15ca8108cb1c29b1ac37b7f3ac76881009207ce": {
+        "name": "BuildRegistry",
+        "address": "0x3d93D4577Ccb4dC49aaC76D145f4F17dd1Eb8edd"
+      },
+      "0x435e2f87fd24ba1c3a4b22a0b4b2eab6fe82aff36370affcbb4342848d91c3b3": {
+        "name": "BuildRegistry",
+        "address": "0x69673D710a431D67726198e0eFB34A2c71f58d7D"
+      },
+      "0x86904835f091c96d1795c64924ffd5d61018bf6ced1dc14dad86656412258b47": {
+        "name": "BuildRegistry",
+        "address": "0x72381929f2f703DAb79BE9c4b4DFb342903e9C0d"
+      },
+      "0x05a0e9914dd8fcce1ad157ab11446d58bbac7563152e5d0378f4d40439018c36": {
+        "name": "BuildRegistry",
+        "address": "0x17Ae0Fbeec77a38eb63e9c5658f57794e8b3D58a"
+      },
+      "0x861fe05119b44c29bd1e9a57707aee8805594be05249ef6df06376114662bab7": {
+        "name": "BuildRegistry",
+        "address": "0x5982E27fd86Da336fDc344487F9EA075e20E7834"
+      },
+      "0x0bd360e7212684840e3d7cf83a5cbb14c21b9b64155e681a996564be74660fc6": {
+        "name": "BuildRegistry",
+        "address": "0x037A3478AAFe59edEFe0613Ac39DdFD7c5cAce45"
+      },
+      "0xa40047cd9285c565d768df20e3b3c3b9913ff6f60fdfe98804cc29eb4af5ae32": {
+        "name": "BuildRegistry",
+        "address": "0x9295DBD21b7227143Afe75139fE725ea5725B43a"
+      },
+      "0x43b9d80751a7b6cc6630783f3454fb318c81e10b7b410aded278eafaafe25792": {
+        "name": "BuildRegistry",
+        "address": "0x3C0607775A45591fc5103334bf5444BFdE4f148e"
+      },
+      "0xebea56a0e13cd9c83771a73279cfa446dd64593ad66641e0f122cbaae11bfde8": {
+        "name": "BuildRegistry",
+        "address": "0x028022C25AEc47F73848b3Da870009547401d686"
+      },
+      "0x04c788e00377af9000c1e66bfad32af5695b86a962a6de3e6c93be26abd029f9": {
+        "name": "BuildRegistry",
+        "address": "0xC1e90697a3eaA692B117499EF8EDc31373BBd84d"
+      },
+      "0xe043ec9b9a1268bce1a5ea4fbe09a8e42f2e38e9164f29e8fae712f7e5587603": {
+        "name": "BuildRegistry",
+        "address": "0xe74019A9928fd1fc6983248FA5979513EA3ffc2a"
+      },
+      "0xae20cf6086c164c4cba11d923b1f17bf4095d32e69781532f3ca28b0c5ac178e": {
+        "name": "BuildRegistry",
+        "address": "0xD5d7bB6E5463757911FCe81dC5B14789079f3c47"
+      },
+      "0x8215bd49ae20a384e3119c28acb29429950a4696d9b3faa50ae5e7267fcba02d": {
+        "name": "BuildRegistry",
+        "address": "0x09fa481bf6702865e0c7d6dB3DA67f72Fb610BbF"
+      },
+      "0xe6f731711e5fea371007e627f01f2949dc8bbf3d0d743397f3e1e8440a732995": {
+        "name": "BuildRegistry",
+        "address": "0xC72B2aF14dACc76117345b301f9DEb3c23C96a6C"
+      },
+      "0x7dcb8e7a2c7d340aee0eda0774a4e1635b3400a412c191fb73f5d5bf4bb2ca7b": {
+        "name": "BuildRegistry",
+        "address": "0xd36D793a9B97E0B6ba01Cede0419be84CA3FcD4E"
+      }
+    }
+  }
+}
